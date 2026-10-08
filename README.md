@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Nmae
 college-id-card-generator
 
@@ -44,3 +45,7 @@ GitHub: https://github.com/VaibhavBobade96
 
 
 >>>>>>> 563c56b6c29610e24252104511354c2aae1e9ae1
+=======
+# College-Id-Generator
+Automatically Generate College Student Id Card 
+>>>>>>> 787496e6c24af27c529014121834d1f300e0184b
