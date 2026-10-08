@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # Project Nmae
-college-id-card-generator
+college-id-card-generator 
+
+# College ID Card Generator
+
+🚀 **Live Demo:** https://college-id-generator-4.onrender.com
 
 # Description
 This project is a College Student ID Card Generator developed using HTML, CSS, JavaScript, and Python. It allows users to enter and manage student details such as name, photo, roll number, and department. The system stores all student information in an SQLite database for efficient data management. Using automated processing, the application can generate professional ID cards for more than 500 students at a time with a single click, making the process fast, efficient, and reducing manual work in colleges.
